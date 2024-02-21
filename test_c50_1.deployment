@@ -1,0 +1,6 @@
+#{id=>"test_c50_1",
+  deployments=>[
+		{"adder","c50"},
+	  	{"divi","c50"}
+ 		]
+  }.
