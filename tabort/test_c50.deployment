@@ -1,0 +1,10 @@
+#{id=>"test_c50",
+  deployments=>[
+		{"controller","c200"},
+		{"catalog","c200"},
+	  	{"host","c50"},
+	   	{"deployment","c50"},			
+   	  	{"divi","c50"},
+   	  	{"divi","c50"}
+ 		]
+  }.

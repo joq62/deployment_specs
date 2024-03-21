@@ -1,0 +1,15 @@
+#{id=>"first_c200",
+  deployments=>[
+		{"controller","c200"},
+		{"catalog","c200"},
+	  	{"host","c200"},
+	   	{"deployment","c200"},
+		%% Applications
+		{"adder","c200"},
+		{"divi","c200"},
+	  	{"adder","c200"},
+	   	{"adder","c200"},
+   	  	{"divi","c200"},
+   	  	{"divi","c200"}
+ 		]
+  }.

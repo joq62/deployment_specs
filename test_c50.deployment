@@ -1,9 +1,0 @@
-#{id=>"test_c50",
-  deployments=>[
-		{"adder","c50"},
-	  	{"adder","c50"},
-	   	{"adder","c50"},			
-   	  	{"divi","c50"},
-   	  	{"divi","c50"}
- 		]
-  }.
