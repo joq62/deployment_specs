@@ -1,11 +1,5 @@
 #{id=>"first",
   deployments=>[
-		{"controller.application","c50"},
-		{"catalog.application","c50"},
-		{"deployment.application","c50"},
-		{"log.application","c50"},
-		{"resource_discovery.application","c50"},
-		
   		{"adder.application","c200"},
 		{"adder.application","c202"},
 		{"divi.application","c200"},
