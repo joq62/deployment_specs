@@ -3,6 +3,11 @@
   		{"adder","c200"},
 		{"adder","c202"},
 		{"divi","c200"},
-		{"divi","c202"}
+		{"divi","c202"},
+		{"adder","c50"},
+		{"adder","c50"},
+		{"adder","c50"},
+		{"divi","c50"},
+		{"divi","c50"}
  		]
   }.
