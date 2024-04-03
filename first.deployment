@@ -1,8 +1,10 @@
 #{id=>"first",
   deployments=>[
   		{"adder.application","c200"},
-		{"adder.application","c202"},
+		{"adder.application","c200"},
 		{"divi.application","c200"},
+		{"divi.application","c200"},
+		{"adder.application","c202"},
 		{"divi.application","c202"},
 		{"adder.application","c50"},
 		{"adder.application","c50"},
