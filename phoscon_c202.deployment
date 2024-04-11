@@ -1,0 +1,5 @@
+#{id=>"phoscon_c202",
+  deployments=>[
+  		{"phoscon.application","c202"}
+ 		]
+  }.
