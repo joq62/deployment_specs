@@ -1,5 +1,0 @@
-#{id=>"zigbee",
-  deployments=>[
-  		{"zigbee.application","c202"}
- 		]
-  }.
