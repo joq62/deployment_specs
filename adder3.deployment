@@ -1,0 +1,5 @@
+#{id=>"adder3",
+  deployments=>[
+  		{"adder3.application","c50"}
+ 		]
+  }.
