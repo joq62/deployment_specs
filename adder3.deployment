@@ -1,6 +1,6 @@
 #{id=>"adder3",
   deployments=>[
-		{"adder3.application","c50"},  
+		{"adder3.application","c200"},  
 		{"adder3.application","c50"}
  		]
   }.
