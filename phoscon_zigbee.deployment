@@ -1,7 +1,6 @@
 #{id=>"phoscon_zigbee",
   deployments=>[
   	
-		{"phoscon.application","c50"},
 		{"phoscon.application","c200"},
 		{"zigbee.application","c200"}
  		]
