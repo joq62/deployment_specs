@@ -2,6 +2,7 @@
   deployments=>[
   	
 		{"phoscon.application","c50"},
-		{"phoscon.application","c200"}
+		{"phoscon.application","c200"},
+		{"zigbee.application","c200"}
  		]
   }.
