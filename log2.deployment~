@@ -1,8 +1,0 @@
-#{id=>"kvs",
-  deployments=>[
-  		{"kvs.application","c200"},
-		{"kvs.application","c201"},
-		{"kvs.application","c202"},
-		{"kvs.application","c230"}
- 		]
-  }.
